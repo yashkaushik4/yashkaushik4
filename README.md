@@ -39,18 +39,9 @@
 
 ---
 
-### 🔥 Latest Activity
-<!--START_SECTION:activity-->
-<!-- You can use GitHub Actions to automatically update this section -->
-<!--END_SECTION:activity-->
-
----
-
-### 📌 Pinned Projects
-Here are a few highlights of my work:
-
-- 🧠 **[ML Spam Classifier](https://github.com/yashkaushik4/ML-Spam-Detector)** – Classifies messages using NLP
-- ⚙️ **[DSA Problem Solving](https://github.com/yashkaushik4/DSA-Practice)** – Solved problems across topics like arrays, trees, and graphs
+### 📌 Pinned Project
+> 🚨 **[KavachX](https://github.com/yashkaushik4/KavachX)** – An advanced, intelligent malware detection and network monitoring system using Python and Streamlit.  
+> Real-time packet classification, malware alerts, and interactive dashboards.
 
 ---
 
