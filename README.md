@@ -12,7 +12,7 @@
 - 🌱 I’m learning **Machine Learning** and building small projects with Python-based tools.
 - 👨‍🎓 I'm passionate about **software development**, backend logic, and scalable coding practices.
 - 💬 Ask me about Java, C++, or ML libraries like Scikit-learn and Pandas.
-- 📫 How to reach me: **yashkaushik.work@gmail.com**
+- 📫 How to reach me: **yashkaushik2026@gmail.com**
 
 ---
 
@@ -47,8 +47,8 @@
 
 ### 📫 Connect With Me
 <p>
-  <a href="mailto:yashkaushik.work@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/yash-kaushik-824aa2264/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:yashkaushik2026@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="www.linkedin.com/in/yash-kaushik4" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
