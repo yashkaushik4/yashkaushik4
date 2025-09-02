@@ -12,7 +12,7 @@
 - 🌱 I’m learning **Machine Learning** and building small projects with Python-based tools.
 - 👨‍🎓 I'm passionate about **software development**, backend logic, and scalable coding practices.
 - 💬 Ask me about Java, C++, or ML libraries like Scikit-learn and Pandas.
-- 📫 How to reach me: **yashkaushik2026@gmail.com**
+- 📫 How to reach me: **kaushikyash2026@gmail.com**
 
 ---
 
